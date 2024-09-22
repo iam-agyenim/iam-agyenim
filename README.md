@@ -15,7 +15,7 @@
 ![Richmond's GitHub stats](https://github-readme-stats.vercel.app/api?username=iam-agyenim&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=iam-agyenim&theme=radical&no-frame=true&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=iam-agyenim&theme=radical&no-frame=true&row=1&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 🚀 Languages Used:
