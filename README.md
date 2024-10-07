@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @iam-agyenim
 - 👀 I’m interested in Software Engineering with Machine Learning Integration
 - 🌱 I’m currently learning Fullstack Development 
-- 💞️ I’m looking to collaborate on software engineering and Machine Learning projects
-- 📫 How to reach me ra4150@nyu.edu
+- 💞️ I’m looking to collaborate on software engineering and machine Learning projects
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a singer and a pianist.
 
