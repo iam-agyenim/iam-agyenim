@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @iam-agyenim
-- 👀 I’m interested in Software Engineering with Machine Learning Integration
-- 🌱 I’m currently learning Fullstack Development 
-- 💞️ I’m looking to collaborate on software engineering and machine Learning projects
+- 👀 I’m interested in Software Engineering 
+- 💞️ I’m looking to collaborate on software engineering  projects
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a singer and a pianist.
 
